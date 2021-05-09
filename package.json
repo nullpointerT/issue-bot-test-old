@@ -28,7 +28,7 @@
     "aws-sdk": "^2.469.0",
     "dotenv": "^8.0.0",
     "github-api": "^3.2.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "oauth": "^0.9.15",
     "source-map-support": "^0.5.12",
     "winston": "^3.2.1"
