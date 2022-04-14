@@ -24,7 +24,7 @@
     "@types/es6-promise": "^3.3.0",
     "@types/lodash": "^4.14.134",
     "acorn": "^6.1.1",
-    "async": "^3.0.1",
+    "async": "^3.2.2",
     "aws-sdk": "^2.469.0",
     "dotenv": "^8.0.0",
     "github-api": "^3.2.0",
